@@ -18,9 +18,12 @@
     "@types/bcrypt": "^6.0.0",
     "bcrypt": "^6.0.0",
     "dotenv": "^17.4.0",
+    "fs": "^0.0.1-security",
+    "net": "^1.0.2",
     "next": "16.2.2",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "tls": "^0.0.1"
   },
   "devDependencies": {
     "@types/node": "^20.19.39",
